@@ -1,0 +1,118 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.navbar {
+     background-color: #161616;
+     border: 1px solid #161616;
+   }
+
+.dropdown {
+     color: #161616
+   }
+
+.dropdown-toggle{
+  text-size: 24px;
+}
+
+   body {
+     background-color: #161616;
+     color: white;
+   }
+
+a:hover {
+background-color: #161616;
+   }
+
+.photos {
+  display: block;
+  margin: 0 auto;
+  align-items: center;
+}
+
+#intro {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  font-family: Garamond;
+  font-size: 15px;
+}
+
+.messages {
+  display: absolute;
+  flex-wrap: wrap
+  justify-content: center;
+  color: black;
+}
+.message-container {
+  display: absolute;
+  width: 20%;
+  margin: 2.5%;
+}
+
+.form-group.button-group {
+  margin: 0 auto 0 50px;
+}
+
+h1{
+  color: #dc5774;
+  font-family: Garamond;
+}
+
+h4{
+  color: #ed9893;
+  font-family: Garamond;
+}
+
+.container{
+  background-color: #161616;
+}
+
+#container{
+  background-color: #161616;
+}
+
+#playButtons {
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+#nextButtons{
+  padding: 10px;
+  text-align: right;
+}
+
+#myVideo{
+  width: 80%;
+  display: block;
+margin: 0 auto;
+}
+
+#vidNum{
+  align-self: center;
+}
+
+button {
+  background-color: #efc2bf;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #302513;
+  font-size: 14px;
+  padding: 10px 25px;
+}
+
+.btn-default{
+  background-color: #efc2bf;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #302513;
+  font-size: 14px;
+  padding: 5px 10px;
+}
